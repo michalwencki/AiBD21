@@ -1,0 +1,9 @@
+Material first obtained on 05.11.2021.
+Material obtained by downloading a repository of Analiza i Bazy Danych exercise.
+The data describes sales of RTV and AGD product in the Świętokrzyskie region in Poland,
+every line in the data represents an item sold, additionally described by:
+- number of days since purchase
+- the name of the company which created the product
+- the age of the buyer
+- the sex of the buyer
+- rating of the product

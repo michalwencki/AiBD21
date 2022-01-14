@@ -1,0 +1,18 @@
+Original data is stored in the original data folder in the 12_S╠üWIE╠ĘTOKRZYSKIE.txt file
+It was renamed and put in the analysis data folder
+There's a metadata guide in a file called metadata guide Świętokrzyskie.txt in Original Data->Metadata
+All the changes done to the database were done in workspace.ipynb file which is in Command Files folder
+Documents folder presents the description (The data appendix.pdf) and content (The final paper.pdf) of the project
+
+Programs used: 
+Notebook 6.7.0, 
+LibreOffice Writer, 
+Text Editor,
+ipython>=4.1.2
+jupyter>=1.0.0
+matplotlib>=1.5.1
+numpy>=1.10.4
+pandas>=0.17.1
+seaborn>=0.7.0
+
+
